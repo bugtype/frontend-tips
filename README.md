@@ -14,14 +14,22 @@
 
 ### II. Javscript
 
+
+### dynamic import
+
 <img src="https://media-exp1.licdn.com/dms/image/C4E22AQHB99UMiqFxjg/feedshare-shrink_2048_1536/0/1647586632625?e=1650499200&v=beta&t=Bz5bazDPA52PWbqZIeOa7W-4DbMPgYyiuO-_i8XC_0M" width="700" />
 
 
 ### III. Typescript
 
+#### string literal type
+
 <img src="https://media-exp1.licdn.com/dms/image/C4E22AQFgyZc2BUJ89Q/feedshare-shrink_2048_1536/0/1647609613906?e=1650499200&v=beta&t=2_R8gCiCvq8VpqW6OPqT7e1VSN3ixrXG5wUjZBKSb-M" width="700" />
 
 ### IV. React Native
+
+<img src="https://media-exp1.licdn.com/dms/image/C4E22AQHqVkzkyRNasg/feedshare-shrink_2048_1536/0/1647553046021?e=1650499200&v=beta&t=6DUcWK_Sbot51ISp0Y-FihPU5D5mBFxYikKS6Zk7PcU" width="700" />
+
 
 ### V. Convension
 
