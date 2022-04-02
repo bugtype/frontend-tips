@@ -17,6 +17,13 @@ accent-color
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E22AQFTyNat3dHJFA/feedshare-shrink_800/0/1648211250486?e=1651104000&v=beta&t=eT1EmSCWBKWlFBie9RGKJsygXralOA4DWhMXJ4heToU" width="700" />
 
+user-select
+
+- 글씨 드래그 못하게 설정
+
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQE8VXINStF4dg/feedshare-shrink_2048_1536/0/1648741919029?e=2147483647&v=beta&t=HLMsILmAwJJVVUWsfbAmrMj-85cE_VubxYHJPfEttoM" width="700" />
+
+
 
 ### II. Javscript
 
